@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:practice/project1/project1.dart';
 import 'package:practice/web/main.screen.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
@@ -18,7 +19,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MainScreen(),
+      home: const project1(),
     );
   }
 }
