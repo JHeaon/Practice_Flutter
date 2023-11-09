@@ -1,16 +1,4 @@
-# practice
+# Flutter practice
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Infearn 오준석 강사님의 Flutter 기초강의 들으면서 플러터 기초 다지기 <br>
+프로젝트 1 ~ 6까지 진행하면서 핸드폰을 센서를 이용해러 처리하는 방식부터 플러터 내부 코드를 어떻에 작성해야하는 지에 대해서 배우는 것이 목표 
